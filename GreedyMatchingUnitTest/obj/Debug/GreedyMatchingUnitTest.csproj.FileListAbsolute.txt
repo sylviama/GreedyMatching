@@ -1,0 +1,17 @@
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\GreedyMatchingUnitTest.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\GreedyMatchingUnitTest.pdb
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\GreedyMatching2.exe
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\GreedyMatching2.pdb
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\GreedyMatching2.exe.config
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\obj\Debug\GreedyMatchingUnitTest.csprojAssemblyReference.cache
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\obj\Debug\GreedyMatchingUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\obj\Debug\GreedyMatchingUnitTest.csproj.CopyComplete
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\obj\Debug\GreedyMatchingUnitTest.dll
+C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatchingUnitTest\obj\Debug\GreedyMatchingUnitTest.pdb
