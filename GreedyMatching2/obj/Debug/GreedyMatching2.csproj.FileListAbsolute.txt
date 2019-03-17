@@ -1,7 +1,0 @@
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\bin\Debug\GreedyMatching2.exe.config
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\bin\Debug\GreedyMatching2.exe
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\bin\Debug\GreedyMatching2.pdb
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\obj\Debug\GreedyMatching2.csprojAssemblyReference.cache
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\obj\Debug\GreedyMatching2.csproj.CoreCompileInputs.cache
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\obj\Debug\GreedyMatching2.exe
-C:\Users\xiang\Documents\Sylvia's\Code\GreedyMatching\GreedyMatching2\GreedyMatching2\obj\Debug\GreedyMatching2.pdb
